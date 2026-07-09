@@ -1,0 +1,40 @@
+{
+  "total_images": 160,
+  "corrupt_files": [],
+  "duplicates": [
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1001.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1002.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1003.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1019.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1020.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1021.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1022.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1026.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1028.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1031.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1040.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1066.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1069.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1077.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1088.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1092.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1093.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1095.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1096.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1120.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1121.jpeg",
+    "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1127.jpeg"
+  ],
+  "bad_dimensions": [],
+  "class_distribution": {
+    "train": {
+      "ok_front": 40,
+      "def_front": 40
+    },
+    "test": {
+      "ok_front": 40,
+      "def_front": 40
+    }
+  },
+  "passed": false
+}

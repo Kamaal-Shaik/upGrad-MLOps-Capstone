@@ -1,0 +1,13 @@
+path,class,brightness,contrast,edge_density,sharpness,mean_intensity
+D:\py_test\gdrive_sync\upGrad-learning\Python\casting-defect-mlops\data\casting_data\train\ok_front\cast_ok_0_1050.jpeg,ok_front,141.64493333333334,63.35318719419112,0.0395324183006536,768.5247767455556,141.64493333333334
+D:\py_test\gdrive_sync\upGrad-learning\Python\casting-defect-mlops\data\casting_data\train\def_front\cast_def_0_1004.jpeg,def_front,132.55935555555556,62.95988166396318,0.046789586056644884,1042.0622530813582,132.55935555555556
+D:\py_test\gdrive_sync\upGrad-learning\Python\casting-defect-mlops\data\casting_data\train\ok_front\cast_ok_0_1121.jpeg,ok_front,153.83914444444446,60.95120036135668,0.03400971677559913,696.543851416173,153.83914444444446
+D:\py_test\gdrive_sync\upGrad-learning\Python\casting-defect-mlops\data\casting_data\train\def_front\cast_def_0_1088.jpeg,def_front,135.5982,61.47876906419719,0.0463480174291939,954.6900686458026,135.5982
+D:\py_test\gdrive_sync\upGrad-learning\Python\casting-defect-mlops\data\casting_data\train\def_front\cast_def_0_1019.jpeg,def_front,135.14967777777778,54.36666101478159,0.042388540305010894,915.6258931495062,135.14967777777778
+D:\py_test\gdrive_sync\upGrad-learning\Python\casting-defect-mlops\data\casting_data\train\def_front\cast_def_0_1059.jpeg,def_front,126.31323333333333,61.06766671662036,0.0418123311546841,773.243820290247,126.31323333333333
+D:\py_test\gdrive_sync\upGrad-learning\Python\casting-defect-mlops\data\casting_data\train\ok_front\cast_ok_0_1092.jpeg,ok_front,140.83284444444445,60.60927297147985,0.04366605664488018,897.5207947535803,140.83284444444445
+D:\py_test\gdrive_sync\upGrad-learning\Python\casting-defect-mlops\data\casting_data\train\ok_front\cast_ok_0_1026.jpeg,ok_front,143.3692,61.65579834158161,0.04206339869281046,856.3949153055555,143.3692
+D:\py_test\gdrive_sync\upGrad-learning\Python\casting-defect-mlops\data\casting_data\train\ok_front\cast_ok_0_1040.jpeg,ok_front,141.89881111111112,63.71300560349502,0.0400676688453159,783.544966690247,141.89881111111112
+D:\py_test\gdrive_sync\upGrad-learning\Python\casting-defect-mlops\data\casting_data\train\def_front\cast_def_0_1031.jpeg,def_front,139.4795,55.55316754420439,0.0382280174291939,769.6272687791358,139.4795
+D:\py_test\gdrive_sync\upGrad-learning\Python\casting-defect-mlops\data\casting_data\train\ok_front\cast_ok_0_1013.jpeg,ok_front,156.8535777777778,59.70786626455657,0.038620479302832245,817.8208968395061,156.8535777777778
+D:\py_test\gdrive_sync\upGrad-learning\Python\casting-defect-mlops\data\casting_data\train\def_front\cast_def_0_1043.jpeg,def_front,132.20575555555556,52.833142567334065,0.038038387799564276,680.3285732887654,132.20575555555556

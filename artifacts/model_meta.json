@@ -1,0 +1,21 @@
+{
+  "best_val_f1": 0.6666666666666666,
+  "test_metrics": {
+    "accuracy": 0.5875,
+    "precision_defect": 1.0,
+    "recall_defect": 0.175,
+    "f1_defect": 0.2978723404255319,
+    "macro_f1": 0.5029184710977217,
+    "roc_auc": 0.5875,
+    "confusion_matrix": [
+      [
+        40,
+        0
+      ],
+      [
+        33,
+        7
+      ]
+    ]
+  }
+}

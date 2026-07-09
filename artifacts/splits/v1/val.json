@@ -1,0 +1,52 @@
+{
+  "files": [
+    {
+      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\train\\ok_front\\cast_ok_0_1050.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\train\\def_front\\cast_def_0_1004.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\train\\ok_front\\cast_ok_0_1121.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\train\\def_front\\cast_def_0_1088.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\train\\def_front\\cast_def_0_1019.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\train\\def_front\\cast_def_0_1059.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\train\\ok_front\\cast_ok_0_1092.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\train\\ok_front\\cast_ok_0_1026.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\train\\ok_front\\cast_ok_0_1040.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\train\\def_front\\cast_def_0_1031.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\train\\ok_front\\cast_ok_0_1013.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\train\\def_front\\cast_def_0_1043.jpeg",
+      "label": 1
+    }
+  ]
+}
