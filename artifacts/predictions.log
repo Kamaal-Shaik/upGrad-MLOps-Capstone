@@ -1,2 +1,4 @@
 {"time": 1783610887.6745856, "file": "sample.jpg", "label": "ok_front", "is_defective": false, "prob_defect": 0.46167895197868347, "confidence": 0.5383210182189941}
 {"time": 1783613469.5245864, "file": "sample.jpg", "label": "ok_front", "is_defective": false, "prob_defect": 0.46167895197868347, "confidence": 0.5383210182189941}
+{"time": 1783680969.5311494, "file": "sample.jpg", "label": "def_front", "is_defective": true, "prob_defect": 0.9364546537399292, "confidence": 0.9364546537399292}
+{"time": 1783692273.84014, "file": "sample.jpg", "label": "def_front", "is_defective": true, "prob_defect": 0.9364546537399292, "confidence": 0.9364546537399292}

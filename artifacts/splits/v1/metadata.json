@@ -1,22 +1,22 @@
 {
   "version": "v1",
-  "date": "2026-07-08T12:26:37.322660",
+  "date": "2026-07-10T19:08:44.251701",
   "class_defs": {
     "ok_front": 0,
     "def_front": 1
   },
   "split_info": {
     "train": {
-      "ok_front": 34,
-      "def_front": 34
+      "ok_front": 2444,
+      "def_front": 3194
     },
     "val": {
-      "ok_front": 6,
-      "def_front": 6
+      "ok_front": 431,
+      "def_front": 564
     },
     "test": {
-      "ok_front": 40,
-      "def_front": 40
+      "ok_front": 262,
+      "def_front": 453
     }
   },
   "seed": 42

@@ -1,122 +1,122 @@
 [
   {
-    "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1059.jpeg",
-    "true": "def_front",
-    "pred": "ok_front",
-    "p_defect": 0.4587801694869995
+    "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_10.jpeg",
+    "true": "ok_front",
+    "pred": "def_front",
+    "p_defect": 0.8692077994346619
   },
   {
-    "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_108.jpeg",
-    "true": "def_front",
-    "pred": "ok_front",
-    "p_defect": 0.32034099102020264
+    "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1001.jpeg",
+    "true": "ok_front",
+    "pred": "def_front",
+    "p_defect": 0.9084875583648682
   },
   {
-    "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_112.jpeg",
-    "true": "def_front",
-    "pred": "ok_front",
-    "p_defect": 0.4162009358406067
+    "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1002.jpeg",
+    "true": "ok_front",
+    "pred": "def_front",
+    "p_defect": 0.5747771263122559
   },
   {
-    "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1134.jpeg",
-    "true": "def_front",
-    "pred": "ok_front",
-    "p_defect": 0.32613489031791687
+    "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1003.jpeg",
+    "true": "ok_front",
+    "pred": "def_front",
+    "p_defect": 0.9914845824241638
   },
   {
-    "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1136.jpeg",
-    "true": "def_front",
-    "pred": "ok_front",
-    "p_defect": 0.4022400975227356
+    "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1019.jpeg",
+    "true": "ok_front",
+    "pred": "def_front",
+    "p_defect": 0.9954085946083069
   },
   {
-    "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1137.jpeg",
-    "true": "def_front",
-    "pred": "ok_front",
-    "p_defect": 0.36442822217941284
+    "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1020.jpeg",
+    "true": "ok_front",
+    "pred": "def_front",
+    "p_defect": 0.9918843507766724
   },
   {
-    "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1153.jpeg",
-    "true": "def_front",
-    "pred": "ok_front",
-    "p_defect": 0.35091838240623474
+    "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1021.jpeg",
+    "true": "ok_front",
+    "pred": "def_front",
+    "p_defect": 0.9357185363769531
   },
   {
-    "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1171.jpeg",
-    "true": "def_front",
-    "pred": "ok_front",
-    "p_defect": 0.3452998995780945
+    "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1022.jpeg",
+    "true": "ok_front",
+    "pred": "def_front",
+    "p_defect": 0.9307525157928467
   },
   {
-    "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1172.jpeg",
-    "true": "def_front",
-    "pred": "ok_front",
-    "p_defect": 0.3701852560043335
+    "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1026.jpeg",
+    "true": "ok_front",
+    "pred": "def_front",
+    "p_defect": 0.8682880997657776
   },
   {
-    "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1174.jpeg",
-    "true": "def_front",
-    "pred": "ok_front",
-    "p_defect": 0.35407596826553345
+    "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1028.jpeg",
+    "true": "ok_front",
+    "pred": "def_front",
+    "p_defect": 0.9253045320510864
   },
   {
-    "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_118.jpeg",
-    "true": "def_front",
-    "pred": "ok_front",
-    "p_defect": 0.47047343850135803
+    "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1031.jpeg",
+    "true": "ok_front",
+    "pred": "def_front",
+    "p_defect": 0.9651781916618347
   },
   {
-    "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1186.jpeg",
-    "true": "def_front",
-    "pred": "ok_front",
-    "p_defect": 0.47397586703300476
+    "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1040.jpeg",
+    "true": "ok_front",
+    "pred": "def_front",
+    "p_defect": 0.9303495287895203
   },
   {
-    "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1189.jpeg",
-    "true": "def_front",
-    "pred": "ok_front",
-    "p_defect": 0.283915638923645
+    "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1066.jpeg",
+    "true": "ok_front",
+    "pred": "def_front",
+    "p_defect": 0.9535004496574402
   },
   {
-    "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1191.jpeg",
-    "true": "def_front",
-    "pred": "ok_front",
-    "p_defect": 0.349355012178421
+    "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1069.jpeg",
+    "true": "ok_front",
+    "pred": "def_front",
+    "p_defect": 0.9226964712142944
   },
   {
-    "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1203.jpeg",
-    "true": "def_front",
-    "pred": "ok_front",
-    "p_defect": 0.35995882749557495
+    "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1077.jpeg",
+    "true": "ok_front",
+    "pred": "def_front",
+    "p_defect": 0.6859750747680664
   },
   {
-    "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1211.jpeg",
-    "true": "def_front",
-    "pred": "ok_front",
-    "p_defect": 0.41081658005714417
+    "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1093.jpeg",
+    "true": "ok_front",
+    "pred": "def_front",
+    "p_defect": 0.9982307553291321
   },
   {
-    "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1215.jpeg",
-    "true": "def_front",
-    "pred": "ok_front",
-    "p_defect": 0.37868741154670715
+    "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1095.jpeg",
+    "true": "ok_front",
+    "pred": "def_front",
+    "p_defect": 0.53382408618927
   },
   {
-    "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1231.jpeg",
-    "true": "def_front",
-    "pred": "ok_front",
-    "p_defect": 0.32709774374961853
+    "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1096.jpeg",
+    "true": "ok_front",
+    "pred": "def_front",
+    "p_defect": 0.7837799787521362
   },
   {
-    "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1238.jpeg",
-    "true": "def_front",
-    "pred": "ok_front",
-    "p_defect": 0.4397941827774048
+    "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1120.jpeg",
+    "true": "ok_front",
+    "pred": "def_front",
+    "p_defect": 0.9725725054740906
   },
   {
-    "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1239.jpeg",
-    "true": "def_front",
-    "pred": "ok_front",
-    "p_defect": 0.3217768371105194
+    "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1121.jpeg",
+    "true": "ok_front",
+    "pred": "def_front",
+    "p_defect": 0.9476691484451294
   }
 ]

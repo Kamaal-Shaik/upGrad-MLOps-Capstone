@@ -64,7 +64,7 @@ repositories, ZIPs, HTML or JSON files.
 * MLflow registry shows `casting_defect_classifier` with a `@production` alias.
 
   MLFlow UI commands:
-  * mlflow ui --backend-store-uri file:D:/py_test/gdrive_sync/upGrad-learning/Python/casting-defect-mlops/mlruns
+  * mlflow ui --backend-store-uri file:D:/py_test/data_files/Capstone/upGrad-MLOps-Capstone/mlruns
   * http://127.0.0.1:5000 (in browser)
 <h2>Module 1 - S1 - Capstone Workflow and Resources</h2>
 

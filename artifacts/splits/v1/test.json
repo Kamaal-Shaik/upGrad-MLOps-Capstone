@@ -1,323 +1,2863 @@
 {
   "files": [
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_10.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_10.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1001.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1001.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1002.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1002.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1003.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1003.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1019.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1019.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1020.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1020.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1021.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1021.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1022.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1022.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1026.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1026.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1028.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1028.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1031.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1031.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1040.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1040.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1066.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1066.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1069.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1069.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1077.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1077.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1088.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1088.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1092.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1092.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1093.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1093.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1095.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1095.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1096.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1096.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1120.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1120.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1121.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1121.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1127.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1127.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1132.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1132.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1134.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1134.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1137.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1137.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1140.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1140.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1141.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1141.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1144.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1144.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1145.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1145.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1160.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1160.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1165.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1165.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1169.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1169.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1170.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1170.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1171.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1171.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1172.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1172.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1173.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1173.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1174.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1174.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1176.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1176.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\ok_front\\cast_ok_0_1180.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1180.jpeg",
       "label": 0
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1059.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1200.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1202.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1203.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1207.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1209.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1210.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1213.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1218.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1315.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1316.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1318.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1323.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1326.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1328.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1331.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1333.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1334.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1343.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1347.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1351.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1368.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1376.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1381.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1382.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1384.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1385.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_14.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1415.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1420.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1421.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1426.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1430.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1431.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1438.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_16.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1865.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1891.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1925.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_1958.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2012.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2272.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2273.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2286.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2291.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2303.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2311.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2330.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2340.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_235.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_238.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_239.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_246.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_259.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_268.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2686.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2687.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2694.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2698.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2699.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2700.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2707.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2708.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2722.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2724.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2726.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2727.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2729.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2730.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2732.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2737.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2752.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2754.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2755.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2758.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2761.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2765.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2768.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2769.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2784.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2786.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2798.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2801.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2803.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2805.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2807.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2810.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2829.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2831.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2833.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2840.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2841.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2844.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2848.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2850.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2867.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2868.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2869.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2884.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2885.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2892.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2894.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2900.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2911.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2914.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2915.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2917.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2926.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2927.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2932.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_2935.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_31.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_3264.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_3278.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_3292.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_3294.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_4475.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_4476.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_4497.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_4498.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_45.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_49.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_4987.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_4992.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_5009.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_5012.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_504.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_505.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_525.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_526.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_5530.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_5533.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_5541.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_5560.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_5567.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_5587.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_5590.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_5605.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_5606.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_5805.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_5809.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_5815.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_62.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_6365.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_6388.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_64.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_6401.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_6681.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_6682.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_6714.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_6718.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7044.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7089.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7559.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7560.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7588.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7595.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7611.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7624.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7631.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7632.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7820.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7823.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7839.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7849.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7900.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7901.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7925.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7931.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7936.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7939.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7945.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7946.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_7997.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_8008.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_8010.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_8011.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_8172.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_8177.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_8189.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_8192.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_8611.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_8612.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_8614.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_863.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_8637.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_864.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_8644.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_8652.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_869.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_880.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_897.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_903.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_904.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_907.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_925.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_927.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_932.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_935.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_937.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_942.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_952.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_960.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_973.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_975.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_976.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_989.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_9918.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_9920.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_9925.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_9926.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_9928.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_9934.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_9943.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_9955.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_9961.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_9967.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_9973.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_9975.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_998.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_9988.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_9993.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\ok_front\\cast_ok_0_9996.jpeg",
+      "label": 0
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1059.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1063.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1063.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_108.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_108.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1096.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1096.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_112.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_112.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1134.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1134.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1136.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1136.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1137.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1137.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1153.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1153.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1171.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1171.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1172.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1172.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1174.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1174.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_118.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_118.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1186.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1186.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1189.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1189.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1191.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1191.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1203.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1203.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1211.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1211.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1215.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1215.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1231.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1231.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1233.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1233.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1238.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1238.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1239.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1239.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1258.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1258.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1260.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1260.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1264.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1264.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1269.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1269.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1291.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1291.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1292.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1292.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1294.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1294.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1298.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1298.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1320.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1320.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1323.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1323.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1324.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1324.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1351.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1351.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1352.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1352.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1358.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1358.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1359.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1359.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1376.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1376.jpeg",
       "label": 1
     },
     {
-      "path": "D:\\py_test\\gdrive_sync\\upGrad-learning\\Python\\casting-defect-mlops\\data\\casting_data\\test\\def_front\\cast_def_0_1379.jpeg",
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1379.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_138.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1381.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1388.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1392.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1394.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1397.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1399.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1400.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1411.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1412.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1413.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1414.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1418.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1421.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1422.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1424.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1425.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_143.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_144.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1443.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1447.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1453.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1462.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1466.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1467.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_147.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1471.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1474.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1476.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1477.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_148.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1480.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1486.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1488.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_149.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1492.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1493.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1497.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1499.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_15.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_150.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1500.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1505.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1506.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1507.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1509.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_151.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1510.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1511.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1517.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1518.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1519.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1528.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1529.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1535.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1536.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1539.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_154.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1544.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1546.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1547.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1553.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1555.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1556.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1560.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1565.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1567.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1568.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1569.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_157.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1570.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1571.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1573.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1574.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1576.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_158.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1583.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1585.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1586.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1589.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_159.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1590.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1591.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1593.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1594.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1596.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1599.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_160.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1603.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1607.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1608.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_161.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1612.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1613.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1614.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1617.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1618.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_162.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1620.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1625.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1628.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1629.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1633.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1634.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1635.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1636.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1637.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1638.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1639.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_164.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1640.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1642.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1644.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1645.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1647.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1653.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1660.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1661.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1665.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1666.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1677.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1678.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1681.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1682.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1683.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1684.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1685.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1686.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1688.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_174.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_175.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_176.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_181.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_182.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_184.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_186.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1895.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_190.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1903.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_193.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_1935.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_197.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2053.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2084.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2100.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2102.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2104.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2126.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2135.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2136.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2137.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2154.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2155.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2156.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_216.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2176.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2177.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2179.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_218.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_220.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_221.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2211.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2212.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2215.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_224.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2241.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2244.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2247.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2273.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2274.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2276.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_228.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2299.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_230.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2305.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2308.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2309.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_231.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2319.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2324.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2339.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2341.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2342.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_235.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_236.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2372.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2375.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2376.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2392.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2393.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2396.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_242.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2420.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2421.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2422.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2442.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2451.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2453.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_246.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_247.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2479.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2480.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2483.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2486.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2487.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_249.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2509.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2510.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2514.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2515.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2516.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2526.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2528.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2551.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_2553.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_257.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_259.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_26.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_260.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_275.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_28.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_280.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_283.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_290.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_291.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_299.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_302.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_303.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_3105.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_3106.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_3108.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_3121.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_3122.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_3123.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_3387.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_3388.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_340.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_3412.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_3416.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_3438.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_3446.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_3473.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_3500.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_3503.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_363.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_367.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_40.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_411.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_4133.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_4134.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_4137.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_4156.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_4160.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_4164.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_4175.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_4186.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_4198.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_432.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_434.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_436.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_437.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_439.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_441.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_442.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_450.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_455.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_456.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_457.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_459.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_460.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_461.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_462.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_468.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_480.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_483.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_485.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_486.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_49.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_490.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_491.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_495.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_496.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_499.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_500.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_501.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_504.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_505.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_506.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_507.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_514.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_515.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_519.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_520.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_5251.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_5289.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_5297.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_5302.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_531.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_532.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_534.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_535.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_536.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_537.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_538.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_549.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_551.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_552.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_555.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_558.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_560.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_564.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_586.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_588.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_589.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_590.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_591.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_592.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_594.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_61.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_616.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_617.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_618.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_619.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_620.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_621.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_629.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_641.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_642.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_643.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_645.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_646.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_647.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_648.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_65.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_656.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_659.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_661.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_662.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_663.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_666.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_669.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_67.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_7.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_703.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_708.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_715.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_717.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_7241.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_7271.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_732.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_7442.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_7454.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_7468.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_7481.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_7596.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_7653.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_7659.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_811.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_829.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_831.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_849.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_85.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_87.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_88.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_9270.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_939.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_9747.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_9751.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_9758.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_983.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_9921.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_9925.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_9927.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_9960.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_9969.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\cast_def_0_9991.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_1339.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_1353.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_1385.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_1664.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_1780.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_2055.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_2091.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_2306.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_2783.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_3255.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_3299.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_3476.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_3539.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_3645.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_3963.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_3973.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_4483.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_4505.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_4633.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_5164.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_5223.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_5231.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_6223.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_6287.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_6459.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_6647.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_6708.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_7229.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_7323.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_7515.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_8133.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_8159.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_8634.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_8737.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_9014.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_9248.jpeg",
+      "label": 1
+    },
+    {
+      "path": "D:\\py_test\\data_files\\Capstone\\upGrad-MLOps-Capstone\\data\\casting_data\\test\\def_front\\new__0_9334.jpeg",
       "label": 1
     }
   ]

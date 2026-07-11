@@ -99,6 +99,10 @@ def main() -> int:
     # Load splits
     split_dir = config.SPLIT_DIR / "v1"
     train_items = [(Path(d["path"]), d["label"]) for d in json.load(open(split_dir / "train.json"))["files"]]
+
+    if config.MAX_TRAIN_IMAGES > 0 and len(train_items) >= config.MAX_TRAIN_IMAGES:
+        train_items = train_items[:config.MAX_TRAIN_IMAGES]
+
     val_items = [(Path(d["path"]), d["label"]) for d in json.load(open(split_dir / "val.json"))["files"]]
     test_items = [(Path(d["path"]), d["label"]) for d in json.load(open(split_dir / "test.json"))["files"]]
 
@@ -160,7 +164,7 @@ def main() -> int:
         test_metrics = evaluate.compute_metrics(test_y_true, test_y_pred, test_y_prob)
 
         # Log only scalar metrics
-        scalar_test_metrics = {f"val_{k}": v for k, v in test_metrics.items() if isinstance(v, (int, float))}
+        scalar_test_metrics = {f"test_{k}": v for k, v in test_metrics.items() if isinstance(v, (int, float))}
         mlflow.log_metrics(scalar_test_metrics)
 
         # Save metrics.json
@@ -179,7 +183,7 @@ def main() -> int:
         mlflow.pytorch.log_model(net, artifact_path="model", input_example=example)
         client = MlflowClient()
         result = mlflow.register_model(
-            model_uri=f"runs:{mlflow.active_run().info.run_id}/model", name=config.REGISTERED_MODEL
+            model_uri=f"runs:/{mlflow.active_run().info.run_id}/model", name=config.REGISTERED_MODEL
         )
         latest = client.get_latest_versions(config.REGISTERED_MODEL, stages=["None"])[-1]
         client.set_registered_model_alias(config.REGISTERED_MODEL, config.PRODUCTION_ALIAS, latest.version)
@@ -189,7 +193,7 @@ def main() -> int:
         config.MODEL_META_PATH.write_text(json.dumps(meta, indent=2))
 
         # Save reference baseline on clean val sample
-        ref_items = val_ds.items[:200] # small clean subset
+        ref_items = val_items
         baseline_paths = save_reference_baseline(net, ref_items)
         print("Reference baseline saved:", baseline_paths)
 

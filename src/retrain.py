@@ -14,9 +14,6 @@ from PIL import Image
 from torch.utils.data import Dataset, DataLoader
 
 import sys
-
-from Course_7.assignment.Transfer_Learning_Surface_Defect_Shaik_Bhakta_Kamal import y_true
-
 sys.path.append(str(Path(__file__).resolve().parent.parent))
 import config
 from src import data_prep, evaluate
@@ -47,36 +44,42 @@ def main() -> int:
 
     # Evaluate production on fully drifted batch
     prod_model = load_model(config.MODEL_PATH).to(config.DEVICE)
-    prod_model.evan()
-    test_items = json.load(open(config.SPLIT_DIR / "v1" / "test.json"))["files"]
-    drifted_imgs = [corrupt(Image.open(p).convert("L")) for p, _ in test_items]
-    drifted_ds = [(img, cls) for (img, cls) in zip(test_items, drifted_imgs)]
-    drift_loader = DataLoader(
-        [(data_prep.get_transforms(False)(img), cls) for img, cls in drifted_ds],
-        batch_size=config.BATCH_SIZE
-    )
+    prod_model.eval()
+    test_items = [(Path(d["path"]), d["label"]) for d in json.load(open(config.SPLIT_DIR / "v1" / "test.json"))["files"]]
+    # drifted_ds = [(data_prep.get_transforms(False)(corrupt(Image.open(p).convert("L"))), cls) for p, cls in test_items]
+    drifted_ds = []
+    for p, cls in test_items:
+        img = Image.open(p).convert("L")
+        if random.random() < config.DRIFT_SHARE_THRESHOLD: # can be config.DRIFT_SHARE_THRESHOLD
+            img = corrupt(img)
+        drifted_ds.append((data_prep.get_transforms(False)(img), cls))
+    drift_loader = DataLoader(drifted_ds, batch_size=config.BATCH_SIZE, shuffle=False)
+
     y_true, y_pred, y_prob = evaluate.predict(prod_model, drift_loader)
     prod_metrics = evaluate.compute_metrics(y_true, y_pred, y_prob)
     prod_f1 = prod_metrics["f1_defect"]
 
     # Train candidate on drift-augmented data (corrupt_frac ~0.4)
-    train_items = json.load(open(config.SPLIT_DIR / "v1"/ "train.json"))["files"]
-    aug_imgs = []
+    train_items = [(Path(d["path"]), d["label"]) for d in json.load(open(config.SPLIT_DIR / "v1" / "train.json"))["files"]]
+    if config.MAX_TRAIN_IMAGES > 0 and len(train_items) > config.MAX_TRAIN_IMAGES:
+        train_items = train_items[:config.MAX_TRAIN_IMAGES]
+
+    aug_ds = []
     for p, cls in train_items:
+        if not p.exists():
+            print("Missing file:", {p})
+            continue
         img = Image.open(p).convert("L")
         if random.random() < config.DRIFT_SHARE_THRESHOLD:
             img = corrupt(img)
-        aug_imgs.append((img, cls))
+        aug_ds.append((data_prep.get_transforms(True)(img), cls))
 
-    aug_loader = DataLoader(
-        [(data_prep.get_transforms(True)(img), cls) for img, cls in aug_imgs],
-        batch_size=config.BATCH_SIZE, shuffle=True
-    )
+    aug_loader = DataLoader(aug_ds, batch_size=config.BATCH_SIZE, shuffle=True)
 
     cand_model = build_model().to(config.DEVICE)
     weights = class_weights(train_items).to(config.DEVICE)
     criterion = nn.CrossEntropyLoss(weight=weights)
-    optimiser = torch.optim.adam(trainable_parameters(cand_model), lr=config.LEARNING_RATE)
+    optimiser = torch.optim.Adam(trainable_parameters(cand_model), lr=config.LEARNING_RATE)
 
     cand_model.train()
     for epoch in range(5):
@@ -95,8 +98,11 @@ def main() -> int:
     # Promote vs rollback
     from mlflow import MlflowClient, pytorch
     client = MlflowClient()
-    pytorch.log_model(cand_model, "candidate", registered_model_name=config.REGISTERED_MODEL)
-    latest = client.get_latest_versions(config.REGISTERED_MODEL, stages=["None"])[-1]
+    example = torch.randn(1, 3, config.IMG_SIZE, config.IMG_SIZE).numpy()
+    pytorch.log_model(cand_model, name=config.REGISTERED_MODEL, input_example=example)
+    latest = client.get_latest_versions(config.REGISTERED_MODEL, ["None"])[-1]
+
+    prod_version = client.get_model_version_by_alias(config.REGISTERED_MODEL, config.PRODUCTION_ALIAS)
 
     if cand_f1 >= prod_f1 + config.PROMOTE_EPSILON:
         action = "promote"
@@ -106,7 +112,8 @@ def main() -> int:
 
     decision = {
         "action": action, "prod_f1": prod_f1, "cand_f1": cand_f1, "prod_metrics": prod_metrics,
-        "cand_metrics": cand_metrics, "drift_summary": drift, "candidate_version": latest.version
+        "production_version": prod_version.version, "cand_metrics": cand_metrics,
+        "drift_summary": drift, "candidate_version": latest.version
     }
 
     (config.ARTIFACT_DIR / "retraining_decision.json").write_text(json.dumps(decision, indent=2))

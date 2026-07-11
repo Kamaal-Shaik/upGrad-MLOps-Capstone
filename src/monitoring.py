@@ -84,8 +84,8 @@ def run() -> dict:
     #         and set retrain_recommended from the configured thresholds.
     # raise NotImplementedError
 
-    root = data_prep.find_data_root()
-    ref_items = json.load(open(config.SPLIT_DIR / "v1" / "val.json"))["files"][:200]
+    # root = data_prep.find_data_root()
+    ref_items = [(Path(d["path"]), d["label"]) for d in json.load(open(config.SPLIT_DIR / "v1" / "val.json"))["files"]]
 
     # Reference batch (clean)
     ref_imgs = [Image.open(p).convert("L") for p, _ in ref_items]
@@ -99,11 +99,11 @@ def run() -> dict:
     ref_df = pd.DataFrame(ref_feats)
     cur_df = pd.DataFrame(cur_feats)
 
-    from evidently.report import Report
-    from evidently.metric_preset import DataDriftPreset
+    from evidently.future.report import Report
+    from evidently.future.presets import DataDriftPreset
     report = Report(metrics=[DataDriftPreset()])
-    report.run(reference_data=ref_df, current_data=cur_df)
-    report.save_html(config.ARTIFACT_DIR / "drift_report.html")
+    eval_res = report.run(reference_data=ref_df, current_data=cur_df)
+    eval_res.save_html(str(config.ARTIFACT_DIR / "drift_report.html"))
 
     # PSI per feature
     psi_scores = {f: psi(ref_df[f], cur_df[f]) for f in ref_df.columns}
@@ -111,8 +111,8 @@ def run() -> dict:
     # Embedding drift
     net = load_model(config.MODEL_PATH).to(config.DEVICE)
     extractor = EmbeddingExtractor(net)
-    ref_emb = np.vstack([extractor(data_prep.get_transforms(False)(img).unsqueeze().to(config.DEVICE)).cpu().numpy() for img in ref_imgs])
-    cur_emb = np.vstack([extractor(data_prep.get_transforms(False)(img).unsqueeze().to(config.DEVICE)).cpu().numpy() for img in cur_imgs])
+    ref_emb = np.vstack([extractor(data_prep.get_transforms(False)(img).unsqueeze(0).to(config.DEVICE)).cpu().numpy() for img in ref_imgs])
+    cur_emb = np.vstack([extractor(data_prep.get_transforms(False)(img).unsqueeze(0).to(config.DEVICE)).cpu().numpy() for img in cur_imgs])
 
     centroid = ref_emb.mean(axis=0)
     ref_dist = np.linalg.norm(ref_emb - centroid, axis=1)
@@ -126,7 +126,7 @@ def run() -> dict:
     cur_conf = []
     for batch in [ref_imgs, cur_imgs]:
         for img in batch:
-            xb = data_prep.get_transforms(False)(img).unsqueeze().to(config.DEVICE)
+            xb = data_prep.get_transforms(False)(img).unsqueeze(0).to(config.DEVICE)
             probs = F.softmax(net(xb), dim=1)
             conf = probs.max().item()
             if batch is ref_imgs:

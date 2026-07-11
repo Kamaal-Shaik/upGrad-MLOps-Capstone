@@ -1,0 +1,14 @@
+{
+  "psi_scores": {
+    "brightness": 0.0,
+    "contrast": 0.0,
+    "edge_density": 1.4169115481195356,
+    "sharpness": 0.02343341757485331,
+    "mean_intensity": 0.0
+  },
+  "embedding_psi": 0.10449454983315759,
+  "confidence_ref": 0.9152747838940453,
+  "confidence_cur": 0.9968338961577295,
+  "confidence_drop": -0.08155911226368429,
+  "retrain_recommended": true
+}

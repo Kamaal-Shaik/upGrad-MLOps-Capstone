@@ -2,3 +2,10 @@
 /shelf/
 /workspace.xml
 /.idea/*
+/data/*
+/mlruns/*
+/.ipynb_checkpoints/*
+/__pycache__/*
+/artifacts/splits/v1/.ipynb_checkpoints/*
+/artifacts/.ipynb_checkpoints/*
+/.ipynb_checkpoints/*

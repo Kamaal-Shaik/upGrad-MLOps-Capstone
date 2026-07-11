@@ -1,0 +1,57 @@
+{
+  "action": "rollback",
+  "prod_f1": 0.7756849315068494,
+  "cand_f1": 0.7742489270386266,
+  "prod_metrics": {
+    "accuracy": 0.6335664335664336,
+    "precision_defect": 0.6335664335664336,
+    "recall_defect": 1.0,
+    "f1_defect": 0.7756849315068494,
+    "macro_f1": 0.3878424657534247,
+    "roc_auc": 0.5,
+    "confusion_matrix": [
+      [
+        0,
+        262
+      ],
+      [
+        0,
+        453
+      ]
+    ]
+  },
+  "production_version": 2,
+  "cand_metrics": {
+    "accuracy": 0.6321678321678321,
+    "precision_defect": 0.6334269662921348,
+    "recall_defect": 0.9955849889624724,
+    "f1_defect": 0.7742489270386266,
+    "macro_f1": 0.39089804842497367,
+    "roc_auc": 0.49970089142780105,
+    "confusion_matrix": [
+      [
+        1,
+        261
+      ],
+      [
+        2,
+        451
+      ]
+    ]
+  },
+  "drift_summary": {
+    "psi_scores": {
+      "brightness": 0.0,
+      "contrast": 0.0,
+      "edge_density": 1.4169115481195356,
+      "sharpness": 0.02343341757485331,
+      "mean_intensity": 0.0
+    },
+    "embedding_psi": 0.10449454983315759,
+    "confidence_ref": 0.9152747838940453,
+    "confidence_cur": 0.9968338961577295,
+    "confidence_drop": -0.08155911226368429,
+    "retrain_recommended": true
+  },
+  "candidate_version": 2
+}

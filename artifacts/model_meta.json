@@ -1,20 +1,20 @@
 {
-  "best_val_f1": 0.6666666666666666,
+  "best_val_f1": 0.723540731237973,
   "test_metrics": {
-    "accuracy": 0.5875,
-    "precision_defect": 1.0,
-    "recall_defect": 0.175,
-    "f1_defect": 0.2978723404255319,
-    "macro_f1": 0.5029184710977217,
-    "roc_auc": 0.5875,
+    "accuracy": 0.5678321678321678,
+    "precision_defect": 0.6192052980132451,
+    "recall_defect": 0.82560706401766,
+    "f1_defect": 0.7076631977294229,
+    "macro_f1": 0.4396224835832101,
+    "roc_auc": 0.47387223429890635,
     "confusion_matrix": [
       [
-        40,
-        0
+        32,
+        230
       ],
       [
-        33,
-        7
+        79,
+        374
       ]
     ]
   }
